@@ -1,0 +1,190 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\40bdc940d3bf1d7de5a2c79805742cc8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c2f6dd01d5310bff36fef58ed342ca56\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\6573a8f804548cbebcf850e0741f8bae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0a1a19f192c8791cc1a7f00e7efe2652\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\78fc6644ca30ea08533bc9008ef33ba2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\e037528de8576686d7afcde028265a8a\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\16c27b3f296c188af075ef1facc8911b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\6b31bc3daab048ad1749cdd5cfa3a121\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\94c926fdf6a40b5569d19ca227a0fbfb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\498fcc8849826cd8fd30b4ec7438d26b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\4351ea83651e02191f0c85f41dae4689\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\4539fadbaf5f4b7cd9f8417037eb6526\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\a9c1d8fe0eac39dae920a5ffb68d5b2a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\ed115397aeae7398ea3f383310257f4a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\1c1890fcf29beaf80544bd41d8a7f6ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\9542ec6d9ccfe7faed357b1ea9150edc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\2296e1be0ff5e798e61a7f2dc3d6e6d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\683115a7b824c01e887ae0a1c40abd12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\be47cb7f759b3585c24f09ca82ed08dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\79f4df431391c542fb301293e6de1b2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\48228b5c9d583c62c795bd436343519c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2febb53e5e078f3faf29e9e691aeb4c3\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\7a2e9a7d551e084ce26d418d7e02525a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\00a8b6ef66a0cf50fa3a527de2162011\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c3580ec542d0e7f52de2318a56ff1e4f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\87f4aba2dd16976e87a1cdf8f4c452a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ef8ae91d14297858965114afcbffea6e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3d82ce659dc51e066e81aed67133d41c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3b9be7d200e0615716da4f7a07e7a452\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4f49c9ebaf73063f91dcc93d620135ff\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\5d8ce4f966d4493b1e065eeab360a36a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bab2f314ad9d0e99b36c4c2f252208e7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\924e5cd9e5313e04ec5db2822a18d6e2\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml
+		ADDED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml
+		ADDED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:8:5-24:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\40bdc940d3bf1d7de5a2c79805742cc8\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\40bdc940d3bf1d7de5a2c79805742cc8\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0a1a19f192c8791cc1a7f00e7efe2652\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0a1a19f192c8791cc1a7f00e7efe2652\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\e037528de8576686d7afcde028265a8a\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\e037528de8576686d7afcde028265a8a\AndroidManifest.xml:10:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\48228b5c9d583c62c795bd436343519c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\48228b5c9d583c62c795bd436343519c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2febb53e5e078f3faf29e9e691aeb4c3\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2febb53e5e078f3faf29e9e691aeb4c3\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\00a8b6ef66a0cf50fa3a527de2162011\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\00a8b6ef66a0cf50fa3a527de2162011\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\48228b5c9d583c62c795bd436343519c\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.prova2.vitorgallera.drinksguys.scenarios_main.main.MainActivity
+ADDED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:15:19-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.prova2.vitorgallera.drinksguys.scenarios_main.spec.SpecActivity
+ADDED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:22:9-23:20
+	android:name
+		ADDED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml:22:19-67
+uses-sdk
+INJECTED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml
+INJECTED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\40bdc940d3bf1d7de5a2c79805742cc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\40bdc940d3bf1d7de5a2c79805742cc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c2f6dd01d5310bff36fef58ed342ca56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c2f6dd01d5310bff36fef58ed342ca56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\6573a8f804548cbebcf850e0741f8bae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\6573a8f804548cbebcf850e0741f8bae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0a1a19f192c8791cc1a7f00e7efe2652\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0a1a19f192c8791cc1a7f00e7efe2652\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\78fc6644ca30ea08533bc9008ef33ba2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\78fc6644ca30ea08533bc9008ef33ba2\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\e037528de8576686d7afcde028265a8a\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\e037528de8576686d7afcde028265a8a\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\16c27b3f296c188af075ef1facc8911b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\16c27b3f296c188af075ef1facc8911b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\6b31bc3daab048ad1749cdd5cfa3a121\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\6b31bc3daab048ad1749cdd5cfa3a121\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\94c926fdf6a40b5569d19ca227a0fbfb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\94c926fdf6a40b5569d19ca227a0fbfb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\498fcc8849826cd8fd30b4ec7438d26b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\498fcc8849826cd8fd30b4ec7438d26b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\4351ea83651e02191f0c85f41dae4689\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\4351ea83651e02191f0c85f41dae4689\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\4539fadbaf5f4b7cd9f8417037eb6526\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\4539fadbaf5f4b7cd9f8417037eb6526\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\a9c1d8fe0eac39dae920a5ffb68d5b2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\a9c1d8fe0eac39dae920a5ffb68d5b2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\ed115397aeae7398ea3f383310257f4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\ed115397aeae7398ea3f383310257f4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\1c1890fcf29beaf80544bd41d8a7f6ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\1c1890fcf29beaf80544bd41d8a7f6ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\9542ec6d9ccfe7faed357b1ea9150edc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\9542ec6d9ccfe7faed357b1ea9150edc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\2296e1be0ff5e798e61a7f2dc3d6e6d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\2296e1be0ff5e798e61a7f2dc3d6e6d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\683115a7b824c01e887ae0a1c40abd12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\683115a7b824c01e887ae0a1c40abd12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\be47cb7f759b3585c24f09ca82ed08dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\be47cb7f759b3585c24f09ca82ed08dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\79f4df431391c542fb301293e6de1b2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\79f4df431391c542fb301293e6de1b2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\48228b5c9d583c62c795bd436343519c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\48228b5c9d583c62c795bd436343519c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2febb53e5e078f3faf29e9e691aeb4c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\2febb53e5e078f3faf29e9e691aeb4c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\7a2e9a7d551e084ce26d418d7e02525a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\7a2e9a7d551e084ce26d418d7e02525a\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\00a8b6ef66a0cf50fa3a527de2162011\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\00a8b6ef66a0cf50fa3a527de2162011\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c3580ec542d0e7f52de2318a56ff1e4f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c3580ec542d0e7f52de2318a56ff1e4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\87f4aba2dd16976e87a1cdf8f4c452a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\87f4aba2dd16976e87a1cdf8f4c452a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ef8ae91d14297858965114afcbffea6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ef8ae91d14297858965114afcbffea6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3d82ce659dc51e066e81aed67133d41c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3d82ce659dc51e066e81aed67133d41c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3b9be7d200e0615716da4f7a07e7a452\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3b9be7d200e0615716da4f7a07e7a452\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4f49c9ebaf73063f91dcc93d620135ff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4f49c9ebaf73063f91dcc93d620135ff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\5d8ce4f966d4493b1e065eeab360a36a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\5d8ce4f966d4493b1e065eeab360a36a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bab2f314ad9d0e99b36c4c2f252208e7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bab2f314ad9d0e99b36c4c2f252208e7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\924e5cd9e5313e04ec5db2822a18d6e2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Gallera\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\924e5cd9e5313e04ec5db2822a18d6e2\AndroidManifest.xml:20:5-44
+INJECTED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml
+INJECTED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml
+		ADDED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml
+		ADDED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Git\DrinksGuys\app\src\main\AndroidManifest.xml
